@@ -1,0 +1,30 @@
+/* first thing is always a selector */
+
+h1 {
+    color: rgb(241, 89, 114);
+    font-size: 3em;
+    /* don't put comma for multiple inputs */
+    text-shadow: 5px 5px 5px black;
+    font-family: "Comic Sans MS";
+    background-color: lightgray;
+    padding: 15px;
+}
+
+p {
+    font-family: "Comic Sans MS";
+    font-size: 2em;
+    border: 1px dashed black;
+    /*padding is the space between the content and the box border*/
+    padding: 15px;
+    /*margin is the space between boxes of content and the page; bigger margin means more centered and further away from the edge*/
+    margin: 10px;
+}
+
+table {
+    font-family: "Comic Sans MS";
+}
+
+label {
+    font-size: 3em;
+    
+}
